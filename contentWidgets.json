@@ -1,0 +1,16 @@
+[
+  {
+    "identifier": "ShopbuilderWidgets::TestWidget",
+    "label": "Widget.TestWidget",
+    "type": "static",
+    "categories": [],
+    "widgetClass": "ShopbuilderWidgets\\Widgets\\TestWidget",
+    "name"              :"ShopbuilderWidgets",
+    "description"       :"My first plugin",
+    "namespace"         :"ShopbuilderWidgets",
+    "author"            :"Miriam",
+    "type"              :"template",
+    "serviceProvider"   :"ShopbuilderWidgets\\Providers\\ShopbuilderWidgetsServiceProvider";
+  }
+
+]
